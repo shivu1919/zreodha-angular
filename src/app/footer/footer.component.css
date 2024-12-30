@@ -7,9 +7,15 @@
 }
 
 #firstpart{
+    cursor: pointer;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
+    color:#666;
     padding-left:50px;
     padding-right:50px;
     padding-top: 40px;
+}
+
+.secondpart{
+    display: flex;
 }
